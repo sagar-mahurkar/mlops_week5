@@ -6,5 +6,4 @@ joblib
 tzdata
 dvc
 dvc-gs
-pytest
-
+mlflow
